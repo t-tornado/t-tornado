@@ -3,7 +3,7 @@
 <img src='/Developer.png' height="500">
 
 I am a javascript/typescript react native developer with the focus of building great mobile experiences for all my apps. 
-Always ready and willing to take up projects and learn and improve.
+Always ready and willing to take up projects to learn new skills and improve on ones.
 I love working with Redux and React Context API and integrations with cloud systems. 
 
 **Current Tools and Languages:**
