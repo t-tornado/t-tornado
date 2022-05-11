@@ -20,4 +20,5 @@ Currently working on
 <img src="/ChordsLogo_White-background.png" height="150" >
 
 **Contact me on:**
-anthonyamp0011@gmail.com
+am.anthonyamponsah@gmail.com
++233558452684
